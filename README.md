@@ -10,12 +10,12 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sonal-Uchiru&show_icons=true&theme=dracula"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Uchiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sonal-Uchiru&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sonal-Uchiru&repo=convoychat" />
-</a>
+</a> -->
 
 ## Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
