@@ -1,5 +1,8 @@
 <!-- **Sonal-Uchiru/Sonal-Uchiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-# Hello, I'm Sonal Jayawardana! 👋
+
+   
+<a href="#"><img width="100%" height="auto" src="https://firebasestorage.googleapis.com/v0/b/diyonwaterpets-5bbae.appspot.com/o/pawel-czerwinski-suLgJZ1edT4-unsplash.jpg?alt=media&token=2f02160a-01ec-40d4-ba7b-194d72a77955" height="100px"/></a>
+<!-- # Hello, I'm Sonal Jayawardana! 👋 -->
 
 - 📚 I’m a Software Enginnering Undergraduate at SLIIT
 - 🌱 I’m currently learning Angular, web socket, and many more
