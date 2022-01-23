@@ -1,13 +1,13 @@
 <!-- **Sonal-Uchiru/Sonal-Uchiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 # Hello, I'm Sonal Jayawardana! 👋
 
-- 🔭 I’m a Software Enginnering Undergraduate at SLIIT
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking for an internship to gain experience & expertise
+- 📚 I’m a Software Enginnering Undergraduate at SLIIT
+- 🌱 I’m currently learning Angular, web socket, and many more
+- 👨‍💻 I’m looking for an internship to gain experience & expertise
 
  
  ## My Stats
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sonal-Uchiru&show_icons=true&theme=tokyonight"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sonal-Uchiru&show_icons=true&theme=dracula"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Uchiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
