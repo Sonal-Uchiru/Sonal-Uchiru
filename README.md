@@ -70,7 +70,7 @@
 <h2 align = "center">Connect with me:</h2>
 <br/>
 <p align="center">   
-<a href = "www.linkedin.com/in/sonal-jayawardana"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sonal-jayawardana"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/appletooby"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 
