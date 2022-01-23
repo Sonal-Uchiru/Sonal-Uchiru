@@ -8,7 +8,7 @@
  
  ## My Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Sonal-Uchiru&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonal-Uchiru&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ## Languages & Tools
