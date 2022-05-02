@@ -5,7 +5,6 @@
 <!-- # Hello, I'm Sonal Jayawardana! 👋 -->
 <h1 align="center">Hola! 🐶 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> 
 - 📚 I’m a Software Enginnering Undergraduate at SLIIT<br/>
-- 🌱 I’m currently learning Angular, web socket, and many more<br/>
 - 👨‍💻 I’m currently doing an internship at Calcey<br/>
 
  
