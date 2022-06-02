@@ -1,9 +1,10 @@
 <!-- **Sonal-Uchiru/Sonal-Uchiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
    
-<a href="#"><img width="100%" height="auto" src="https://firebasestorage.googleapis.com/v0/b/diyonwaterpets-5bbae.appspot.com/o/pawel-czerwinski-suLgJZ1edT4-unsplash.jpg?alt=media&token=2f02160a-01ec-40d4-ba7b-194d72a77955" height="100px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://firebasestorage.googleapis.com/v0/b/diyonwaterpets-5bbae.appspot.com/o/pawel-czerwinski-suLgJZ1edT4-unsplash.jpg?alt=media&token=2f02160a-01ec-40d4-ba7b-194d72a77955" height="100px"/></a> -->
 <!-- # Hello, I'm Sonal Jayawardana! 👋 -->
-<h1 align="center">Hola! 🐶 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1> 
+<h1 align="center">Hola! 🐶  </h1> 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 - 📚 I’m a Software Enginnering Undergraduate at SLIIT<br/>
 - 👨‍💻 I’m currently doing an internship at Calcey<br/>
 
