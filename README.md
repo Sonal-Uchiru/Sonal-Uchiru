@@ -6,7 +6,7 @@
 <h1 align="center">Hola! 🐶  </h1> 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 - 📚 I’m a Software Enginnering Undergraduate at SLIIT<br/>
-- 👨‍💻 I’m currently doing an internship at Calcey<br/>
+- 👨‍💻 Working at Calcey<br/>
 
  
  ## My Stats
