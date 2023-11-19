@@ -5,7 +5,7 @@
 <!-- # Hello, I'm Sonal Jayawardana! 👋 -->
 <h1 align="center">Hola! 🐶  </h1> 
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
-- 📚 I’m a Software Enginnering Undergraduate at SLIIT<br/>
+- 📚 I’m a Software Engineering Undergraduate at SLIIT<br/>
 - 👨‍💻 Working at Calcey<br/>
 
  
@@ -20,7 +20,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Sonal-Uchiru&repo=convoychat" />
 </a> -->
 
-## Languages & Tools
+<!--## Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -65,7 +65,7 @@
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 
-
+-->
 
 
 <!-- 
@@ -77,6 +77,6 @@
 
 <p align="center">   
 <a href = "https://www.linkedin.com/in/sonal-jayawardana"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/appletooby"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!--<a href = "https://twitter.com/appletooby"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>-->
 </p>
 
